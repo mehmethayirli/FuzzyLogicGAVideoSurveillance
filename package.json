@@ -1,0 +1,13 @@
+{
+  "name": "video-surveillance-fuzzy-ga",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx surveillance-system.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
+
